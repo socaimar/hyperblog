@@ -2,3 +2,5 @@ Este es un archivo plano para probar la utilizacion de git en vscode.
 aca voy a guardar un cambio.
 
 Estoy aprendiendo a usar git de manera sorprendente y me entusiasma mucho.
+
+me presento mi nombre es fred solis
